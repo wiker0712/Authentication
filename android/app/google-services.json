@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1098978582484",
+    "project_id": "authtest-ac700",
+    "storage_bucket": "authtest-ac700.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1098978582484:android:f57a8ad464e971857ec041",
+        "android_client_info": {
+          "package_name": "com.example.logintest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVsgEYI4Edn9xfdMp2a7cyUw0b-CIcvKE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
